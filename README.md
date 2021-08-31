@@ -20,6 +20,7 @@ Managing Employee Informations using XML(tinyxml2) With This Program On Windows 
 ## Known Issuses
 
 - When The Program Opens With The .exe The ANSI Colors Are Undefined
+- If You Don't Exist With 0 in Main Menu, All of Your Changes Will Delete.
 
 
 https://github.com/leethomason/tinyxml2
