@@ -13,6 +13,8 @@ Managing Employee Informations using XML(tinyxml2) With This Program On Windows 
 > More Faster, More Performance
 > 
 > Importing The Employee Information With XML Importing
+> 
+> Auto Saving
 
 
 ## Known Issuses
