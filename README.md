@@ -68,6 +68,8 @@ void Create_Profile_Info(Employee_Informations& emp_info)
     printf("Please Insert The Age of The Employee: ");
     getchar(); //Making Sure This is Not Skiping (C/C++ Bug)
     scanf("%d", &emp_info.age);
-}```
+}
+```
+
 
 ### The Menu Uses The Switch() Statement.
