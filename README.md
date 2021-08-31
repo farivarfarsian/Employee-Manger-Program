@@ -3,12 +3,8 @@ Managing Employee Informations using XML(tinyxml2) With This Program On Windows 
 
 ## Maybe Future Improvements
 > Deleting The Custom Profile Using Name
-> More Faster, More Performance
 > 
-> Markdown-formatted document should be
-> publishable as-is, as plain text, without
-> looking like it's been marked up with tags
-> or formatting instructions.
+> More Faster, More Performance
 
 
 ## Known Issuses
