@@ -1,6 +1,10 @@
 # Employee-Manger-Program
 Managing Employee Informations using XML(tinyxml2) With This Program On Windows Console 
 
+
+![Screenshot (77)](https://user-images.githubusercontent.com/63361129/131457511-9c35ee61-96a7-418e-a1e9-00b0faedf787.png)
+
+
 ## Features
 
 - Add/Delete Employee Informations.
